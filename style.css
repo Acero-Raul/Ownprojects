@@ -1,6 +1,9 @@
-#letraVerde{
-    color: chartreuse;
+p {
+    color: rgb(187, 105, 50);
 }
-.boton{
-
+.fondo{
+}
+.titulo{
+    text-emphasis-color: #555;
+    text-emphasis-style: "*";
 }
